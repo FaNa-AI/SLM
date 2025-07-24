@@ -83,9 +83,4 @@ README.md             # Project description and instructions
 
 ---
 
-## 📄 License
-
-MIT License — free for academic and educational use.
-
----
 
